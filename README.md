@@ -1,6 +1,6 @@
 # React, mantine, supabase template
 
-Opinionated and ready to go tempalte, for when you need to bootstrap an app in a minute.
+Opinionated and ready to go template, for when you need to bootstrap an app in a minute.
 
 This example offers an opinionated starter preset for making web apps using a simple sensible technology stack.
 
